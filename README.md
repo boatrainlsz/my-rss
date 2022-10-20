@@ -5,7 +5,7 @@
 3. [美团技术团队](https://tech.meituan.com/atom.xml)
 4. [阮一峰的网络日志](https://www.ruanyifeng.com/blog/atom.xml)
 5. [唐巧的博客](https://blog.devtang.com/atom.xml)
-6. []()
+6. [Thomas Schatzl,HotSpot GC团队的工程师](https://tschatzl.github.io/feed.xml)
 7. []()
 8. []()
 9. []()
