@@ -7,7 +7,7 @@
 5. [唐巧的博客](https://blog.devtang.com/atom.xml)
 6. [Thomas Schatzl, HotSpot GC团队的工程师](https://tschatzl.github.io/feed.xml)
 7. [Per Lidén, 大名鼎鼎的ZGC的技术负责人](https://malloc.se/)
-8. []()
+8. [Russ Coxk, Go的主要贡献者](https://research.swtch.com/)
 9. []()
 10. []()
 11. []()
